@@ -1,0 +1,4 @@
+MIMIC_reports
+__pycache__
+mapping_sentences.json
+mapping.json
